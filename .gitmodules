@@ -1,0 +1,3 @@
+[submodule "bbcmicropython"]
+	path = bbcmicropython
+	url = https://github.com/pyeprog/bbcmicropython.git
