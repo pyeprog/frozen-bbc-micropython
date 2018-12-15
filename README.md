@@ -14,7 +14,7 @@ You can follow the steps below to create a short path.
     3. If you find something like `export PATH="$HOME/bin:PATH"`, then don't bother to chang anything.
 4. add a link to compile.sh for ease.
     1. `ln ~/bin/frozen-bbc-micropython/compile.sh ~/bin/compile`
-5. follow those steps in [bbcmicropython](https://github.com/bbcmicrobit/micropython) to install all the compiling tools.
+5. follow those steps in [bbcmicropython](https://github.com/pyeprog/bbcmicropython) to install all the compiling tools.
 
 And now you are all set. 
 
