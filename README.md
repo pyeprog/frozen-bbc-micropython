@@ -3,6 +3,7 @@ This is a shell script for frozen your own module into bbcmicropython in a easy 
 You can follow the steps below to create a short path.
 
 ## Steps
+0. make sure you use python3.6.6, it will get you pass the dependency problem for installation of yotta
 1. git clone https://github.com/pyeprog/frozen-bbc-micropython.git
 2. make a bin directory in your home path and move this project there.
     1. mkdir ~/bin
